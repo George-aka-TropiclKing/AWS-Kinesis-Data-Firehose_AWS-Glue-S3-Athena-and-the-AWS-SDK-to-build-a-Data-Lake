@@ -19,7 +19,8 @@ ShopSphere needed a scalable, real-time analytics pipeline to:
 ---
 
 ## 🛠️ Solution Architecture
-(Coming Soon)
+(Image Coming Soon)
+*New to GitHub & Im learning)
 
 ---
 
